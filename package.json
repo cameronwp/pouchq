@@ -1,0 +1,16 @@
+{
+  "name": "@marvin-dss/pouchq",
+  "version": "0.0.1",
+  "description": "Simplified interactions with PouchDB.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronwp/pouchq.git"
+  },
+  "author": "Cameron Pittman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronwp/pouchq/issues"
+  },
+  "homepage": "https://github.com/cameronwp/pouchq#readme"
+}
