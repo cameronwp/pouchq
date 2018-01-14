@@ -1,5 +1,5 @@
 {
-  "name": "@marvin-dss/pouchq",
+  "name": "pouchq",
   "version": "0.0.1",
   "description": "Simplified interactions with PouchDB.",
   "main": "index.js",
